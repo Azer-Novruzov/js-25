@@ -1,0 +1,38 @@
+ul {
+    margin-top: 5vh;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+h3{
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    font-style: italic;
+}
+p {
+    font-size: 25px;
+    width: 50%;
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+input{
+    height: 30px;
+}
+.button-input{
+    width: 150px;
+    margin-left: 20px;
+}
+.send-button{
+    margin-left: 20px;
+}
+h2{
+    margin-top: 30px;
+}
+.line{
+    text-decoration: line-through;
+}
+
